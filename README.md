@@ -1,6 +1,9 @@
 ![welcome to my page](https://github.com/Abdoulbasti/images/blob/main/welcome.png)
 # ***Hi, I'm Abdoulbasti***
 
+
+<center>This text will be centered</center>
+
 Développeur full-stack avec 3 mois d'expérience professionnelle au Ministère des Armées française, ainsi que plusieurs projets réalisés. Actuellement en recherche de stage de 6 mois, je suis curieux, dynamique, passionné par la programmation, la création et la maintenance de logiciel de haut qualité.
 
 
