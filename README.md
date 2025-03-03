@@ -1,3 +1,5 @@
+Développeur full-stack avec 3 mois d'expérience professionnelle au Ministère des Armées française, ainsi que plusieurs projets réalisés. Actuellement en recherche de stage de 6 mois, je suis curieux, dynamique, passionné par la programmation, la création et la maintenance de logiciel de haut qualité.
+
 - 👋 Hi, I’m @Abdoulbasti
 - 👀 I’m interested in programming and algorithm 
 - 🌱 I’m currently learning java, c, js
